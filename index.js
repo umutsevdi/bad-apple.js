@@ -27,9 +27,9 @@ function renderRow(row) {
     // }
     for (i = 0; i < width; i++) {
         if (row[i])
-            text += chalk.white.inverse("  ");
-        else
             text += "  ";
+        else
+            text += chalk.white.inverse("  ");
     }
     console.log(text);
 }
