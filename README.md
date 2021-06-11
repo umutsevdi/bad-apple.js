@@ -1,17 +1,10 @@
-# bad-apple.js
+# Bad Apple.js
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+Display Bad Apple video on Node terminal.
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/umutsevdi1/bad-apple.js>
-    <img src="BadApple_First_Frame.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Display Bad Apple video on Node terminal!</h3>
-</p>
 
 
 ## About The Project
