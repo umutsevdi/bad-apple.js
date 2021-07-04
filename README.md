@@ -1,6 +1,4 @@
 # Bad Apple.js
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 Display Bad Apple video on Node terminal.
 
@@ -15,7 +13,7 @@ bad-apple.js is a project that reads the data sheet given in the folder.
                     
 <!-- CONTACT -->
 ## Contact
-Project Link: [https://github.com/umutsevdi1/bad-apple.js](https://github.com/umutsevdi1/bad-apple.js)
+Project Link: [https://github.com/umutsevdi/bad-apple.js](https://github.com/umutsevdi/bad-apple.js)
 
 
 
